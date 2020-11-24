@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="master.masterdetailpage1Detail"
+             Title="Меню дни недель">
+  <StackLayout Padding="10">
+    <Label Text="Тут ты увидишь дни недели :)"/>
+  </StackLayout>
+</ContentPage>
